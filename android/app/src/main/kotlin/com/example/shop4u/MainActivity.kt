@@ -1,0 +1,5 @@
+package com.example.shop4u
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
